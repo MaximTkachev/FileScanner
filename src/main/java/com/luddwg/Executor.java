@@ -1,7 +1,7 @@
 package com.luddwg;
 
-import com.luddwg.comprator.FileComparator;
-import com.luddwg.comprator.FileComparatorFactory;
+import com.luddwg.comparator.FileComparator;
+import com.luddwg.comparator.FileComparatorFactory;
 import com.luddwg.support.IterableFileReader;
 import com.luddwg.support.Pair;
 import com.luddwg.support.Store;

@@ -1,4 +1,4 @@
-package com.luddwg.comprator;
+package com.luddwg.comparator;
 
 import org.xmlunit.assertj3.XmlAssert;
 
